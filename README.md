@@ -1,2 +1,2 @@
 # (E-commerce portfolio website)
-done with https://www.apple.com/in/
+done with www.apple.com/in/
